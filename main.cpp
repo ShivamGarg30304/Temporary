@@ -17,5 +17,5 @@ void bubbleSort(){
 int main(){
 	cout << "Hello World" << endl;
 	cout << "Hello dot Batch" << endl;
-	return 0;
+	return 10;
 }
